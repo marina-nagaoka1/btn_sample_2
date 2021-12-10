@@ -1,0 +1,15 @@
+button1{
+  width: 100px;
+  height: 100px;
+}
+
+#image_file{
+  width: 400px;
+  height: 300px;
+}
+#btn-concat{
+  width: 200px;
+  height: 150px;
+  background-color: gray;
+  border-radius: 10px;
+}
